@@ -1,0 +1,6 @@
+name: EasyUHC
+version: 1.0
+author: NullChips
+main: me.nullchips.easyuhc.EasyUHC
+
+commands:
